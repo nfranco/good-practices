@@ -24,7 +24,7 @@
 - [ ] Unit testing
 - [ ] Integration testing
 - [ ] Functional testing
-- [ ] It whas also checked in a non-productive environment (dev/beta/stage)
+- [ ] It was also checked in a non-productive environment (dev/beta/stage)
 
 ## Checklist:
 
