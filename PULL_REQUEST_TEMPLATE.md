@@ -1,6 +1,12 @@
 ## Description
 
-Resumen del cambio y el feature involucrado / Resumo da mudança e do feature envolvido
+- What I've modify?
+
+
+- What is the purpose of the change?
+
+
+- [OPTIONAL] Link to card in Jira
 
 
 ## Type of change
@@ -15,10 +21,10 @@ Resumen del cambio y el feature involucrado / Resumo da mudança e do feature en
 - [ ] Unit testing
 - [ ] Integration testing
 - [ ] Functional testing
+- [ ] It whas also checked in a non-productive environment (dev/beta/stage)
 
 ## Checklist:
 
 - [ ] I have made corresponding changes to the documentation
 - [ ] I have added tests that prove my fix is effective or that my feature works
 - [ ] New and existing unit tests pass locally with my changes
-- [ ] I have proved that my fix or feature works in a non-productive environment (dev/stage)
